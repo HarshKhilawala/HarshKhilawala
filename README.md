@@ -1,4 +1,5 @@
 # Harsh Khilawala - Problem Solver | Open Source 💙
+  <img alt="STANFORD" src="about.avif"/>  
  **Ex-SWE Intern @SalesUp**  
  **Google Summer of Code 2021 ☀️ - INCF**  
  **Former Research Intern 🔬 @CNRS, @TheUniversityOfTokyo, @Zerotha Research**  
