@@ -19,3 +19,6 @@
 - Official Transcripts: [Masters](https://drive.google.com/file/d/1Tc1BMdt8KAaFylAuPgyyRBWbUEkIpNSt/view?usp=sharing) | [Undergraduate](https://drive.google.com/file/d/1rj7ZmPjwxyOZZBAMnhFYSQHQgxsDQbyq/view?usp=sharing)
 
 ### “Continuous effort– not strength or intelligence – is the key to unlocking our potential. " - Winston Churchill
+
+
+<sup><sup><sup>Image © 2025 Stanford University. Stanford, California 94305.</sup></sup></sup>
