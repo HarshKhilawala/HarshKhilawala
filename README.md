@@ -12,7 +12,7 @@
 
 - Website: [harshkhilawala.me](http://harshkhilawala.me/) 
 - LinkedIn: [/harshkhilawala](https://www.linkedin.com/in/harshkhilawala/)
-- Personal Email: <a href="mailto:harsh.khilawala27careers@gmail.com">harsh.khilawala27careers@gmail.com</a>
+- Personal Email: <img alt="envelope" src="static_files/svgs-full/regular/envelope.svg"/><a href="mailto:harsh.khilawala27careers@gmail.com">harsh.khilawala27careers@gmail.com</a>
 - University Email: <a href="mailto:harshhimanshu.khilawala@pace.edu">harshhimanshu.khilawala@pace.edu</a>
 - Resume: [Click here to view](https://drive.google.com/file/d/12eZa2JcW5iyEztIoBNN-T33HWiandJR_/view?usp=sharing)
 - CV(TBA): [Click here to view]()
