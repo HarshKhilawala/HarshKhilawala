@@ -20,6 +20,6 @@
 
 ### “Continuous effort– not strength or intelligence – is the key to unlocking our potential. " - Winston Churchill
 
-#### DISCLAIMER: Adding script tag within markdown may or may not work. Avoid making tweaks to make it work!. This allows JS Injection (with the help of script tag) attack which attacker can use to steal cookies and other browser data and can access into your private accounts. 
+##### DISCLAIMER: Adding script tag within markdown may or may not work. Avoid making tweaks to make it work! This allows JS Injection attack (with the help of script tag) attack which attacker can use to steal cookies and other browser data and can access into your private accounts. 
 
 <sup><sup><sup>Image © 2025 Stanford University. Stanford, California 94305.</sup></sup></sup>
